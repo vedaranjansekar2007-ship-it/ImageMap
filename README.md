@@ -176,6 +176,9 @@ phone.html
 
 ## OUTPUT
 ![alt text](<image/mapapp/static/Screenshot 2025-10-15 202006.png>)
+![alt text](<Screenshot 2025-10-15 204023.png>)
+![alt text](<Screenshot 2025-10-15 204448.png>)
+![alt text](<Screenshot 2025-10-15 204536.png>) 
 
 
 
