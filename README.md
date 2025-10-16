@@ -176,9 +176,10 @@ phone.html
 
 ## OUTPUT
 ![alt text](<image/mapapp/static/Screenshot 2025-10-15 202006.png>)
-![alt text](<Screenshot 2025-10-15 204023.png>)
-![alt text](<Screenshot 2025-10-15 204448.png>)
-![alt text](<Screenshot 2025-10-15 204536.png>) 
+<img width="1742" height="765" alt="Screenshot 2025-10-15 204536" src="https://github.com/user-attachments/assets/57d98ca1-8d7b-42cd-a340-f4bf9ebb4ced" />
+<img width="1588" height="896" alt="Screenshot 2025-10-15 204023" src="https://github.com/user-attachments/assets/5f20a198-5d09-4484-a59e-70ec2bcc004b" />
+<img width="1735" height="799" alt="Screenshot 2025-10-15 204448" src="https://github.com/user-attachments/assets/750fdf11-2909-4cf6-8394-b44cccd83c80" />
+
 
 
 
